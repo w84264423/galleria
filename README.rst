@@ -1,5 +1,5 @@
 ********
-Galleria
+Galleria 图片集
 ********
 
 **Responsive JavaScript Image Gallery**
